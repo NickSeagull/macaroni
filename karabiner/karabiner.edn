@@ -143,6 +143,7 @@
         [:o [:km "g: Clone repo to ~/Code/Clones and open VS Code"]]
         [:p [:km "slack: write scrum"]]
         [:h [:alfred "search hoogle" "se.meck.alfred-hoogle"]]
+        [:return :!Creturn]
       ]
     }
 
