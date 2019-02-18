@@ -91,10 +91,10 @@
     }
 
     {
-      :des "skey (vim emulation)"
+      :des "xkey (vim emulation)"
       :rules
       [
-        :s-mode
+        :x-mode
         [:h :left_arrow]
         [:j :down_arrow]
         [:k :up_arrow]
