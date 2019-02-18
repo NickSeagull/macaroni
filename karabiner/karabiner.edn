@@ -21,6 +21,10 @@
               :d-mode {:key :d}
               :f-mode {:key :f}
               :g-mode {:key :g}
+              :h-mode {:key :h}
+              :j-mode {:key :j}
+              :k-mode {:key :k}
+              :l-mode {:key :l}
               :z-mode {:key :z}
               :x-mode {:key :x}
               :c-mode {:key :c}
