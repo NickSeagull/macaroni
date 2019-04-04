@@ -148,6 +148,7 @@
         [:p [:km "slack: write scrum"]]
         [:h [:alfred "search hoogle" "se.meck.alfred-hoogle"]]
         [:a [:alfred "open aws" "com.ryankoval.awsconsoleservices"]]
+        [:i [:alfred "search github" "de.gh01.alfred.github"]]
         [:u :!Cdown_arrow]
       ]
     }
