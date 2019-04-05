@@ -52,6 +52,7 @@
         [:i [:km "open: MindNode"]]
         [:n [:km "open: Notion"]]
         [:b [:km "open: Keybase"]]
+        [:o [:km "open: Fork"]]
       ]
     }
 
