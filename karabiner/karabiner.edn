@@ -53,7 +53,7 @@
         [:n [:km "open: Notion"]]
         [:b [:km "open: Keybase"]]
         [:o [:km "open: Fork"]]
-        [:e "emacsclient -c ~/Code"]
+        [:e [:km "open: Emacs"]]
       ]
     }
 
