@@ -152,7 +152,14 @@
         [:i [:alfred "search github" "de.gh01.alfred.github"]]
       ]
     }
-
+   {
+    :des "tkey (gtd)"
+    :rules
+    [
+     :t-mode
+     [:i [:alfred "capture" "com.nickseagull.gtd"]]
+     ]
+    }
     {
       :des "akey (left shift)"
       :rules
