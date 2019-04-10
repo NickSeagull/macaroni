@@ -121,8 +121,8 @@
       :rules
       [
         :n-mode
-        [:o [:alfred "open file" "com.nickseagull"]]
-        [:f [:alfred "find file" "com.nickseagull"]]
+        [:o [:alfred "open file" "com.nickseagull.files"]]
+        [:f [:alfred "find file" "com.nickseagull.files"]]
         [:d [:alfred "search google drive" "com.drive.azai91"]]
       ]
     }
