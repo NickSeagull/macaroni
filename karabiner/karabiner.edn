@@ -93,6 +93,7 @@
         [:t [:km "open: Telegram"]]
         [:s [:km "open: Slack"]]
         [:p [:km "open: Spark"]]
+        [:d [:km "open: Discord"]]
       ]
     }
 
